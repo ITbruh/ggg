@@ -661,6 +661,7 @@ img {
 .processing svg {
   margin-right: 6px;
   cursor: pointer;
+  margin-bottom: -6px;
 }
 
 .shadowLine {
@@ -1007,6 +1008,10 @@ img {
   text-decoration-line: underline;
   color: #FFFFFF;
   margin-right: 7px;
+}
+
+.foot_consult svg {
+  margin-bottom: -6px;
 }
 
 
