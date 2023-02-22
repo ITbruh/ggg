@@ -646,6 +646,7 @@ img {
   padding-top: 22px;
   margin: 0 auto;
   margin-bottom: 10px;
+  text-decoration: none;
 }
 
 .processing p {
