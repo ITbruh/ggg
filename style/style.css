@@ -190,6 +190,10 @@ header {
   width: 94%;
 }
 
+.consultBlock svg {
+  margin-bottom: -6px;
+}
+
 .consultBtn {
   font-family: 'Montserrat';
   font-style: normal;
