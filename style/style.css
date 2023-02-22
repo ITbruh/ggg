@@ -375,7 +375,7 @@ img {
 
 .salesElems p {
   font-weight: 600;
-  font-size: 17.5084px;
+  font-size: 20px;
   line-height: 21px;
   text-align: center;
   color: #121213;
@@ -625,6 +625,8 @@ img {
   box-shadow: inset 0px 4.16667px 4.16667px rgba(0, 0, 0, 0.25);
   border-radius: 32.6719px;
   margin-bottom: 15px;
+  position: relative;
+  z-index: 100;
 }
 
 .diagnBtn2 {
