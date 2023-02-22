@@ -15,7 +15,7 @@ cancel2.addEventListener('click', function () {
 
 const button = document.querySelector('.DiagBtn')
 const block = document.querySelector('.boss')
-const consultBtn = document.querySelector('.consultBtn')
+
 
 button.addEventListener('click', function () {
     block.scrollIntoView({
